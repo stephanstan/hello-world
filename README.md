@@ -6,4 +6,4 @@ https://guides.github.com/activities/hello-world/
 
 ## a little bit more
 ## learning more about git and pull requests
-## https://guides.github.com/activities/hello-world/
+## [following this guide](https://guides.github.com/activities/hello-world/)
